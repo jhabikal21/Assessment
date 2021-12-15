@@ -1,7 +1,6 @@
-As discussed, we can share below task to our candidate:
 In this round you need to solve the two challenges mentioned as below.
 
-I. Write Terraform code for the following tasks:
+### I. Write Terraform code for the following tasks:
 ---------------------------------------------------
 1. Cross Account S3-SNS-SQS Integration
 Create resources:
@@ -27,7 +26,7 @@ Account B - Destination Bucket
 
 Requirement: Perform the required configuration to enable CRR
 
-II. Perform Kubernetes deployment using minikube and add security best practices based on your knowledge & experience.  
+### II. Perform Kubernetes deployment using minikube and add security best practices based on your knowledge & experience.  
 
 Deploy a simple web application on kubernetes. You can use minikube on your local machine to perform this activity.
 Ref: https://octoperf.com/blog/2019/09/05/kraken-kubernetes-ingress-nginx-frontend/#prerequisites
